@@ -8,7 +8,6 @@ https://github.com/useyourfeelings/mqtt_turtle
 ###Go
 ``` 
 https://github.com/takanorig/mqtt-bench
-https://github.com/takanorig/mqtt-bench
 https://github.com/shiftr-io/nile
 https://gowalker.org/github.com/kgbu/mqtt-bench
 https://github.com/krylovsk/mqtt-benchmark
